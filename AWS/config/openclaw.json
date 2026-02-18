@@ -73,7 +73,7 @@
     "bind": "loopback",
     "auth": {
       "mode": "token",
-      "token": "<GATEWAY_AUTH_TOKEN>"
+      "token": "<GATEWAY_TOKEN>"
     },
     "tailscale": {
       "mode": "off",
@@ -86,7 +86,7 @@
     },
     "entries": {
       "nano-banana-pro": {
-        "apiKey": "<GOOGLE_AI_API_KEY>"
+        "apiKey": "<GOOGLE_API_KEY>"
       },
       "notion": {
         "apiKey": "<NOTION_API_KEY>"
